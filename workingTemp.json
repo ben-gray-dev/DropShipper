@@ -1,0 +1,165 @@
+{"Item": {
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "Description": "This is the first book in the Harry Potter series. In excellent condition!",
+    "PrimaryCategory": {"CategoryID": "377"},
+    "StartPrice": "10.0",
+    "BuyItNowPrice": "15.0",
+    "Location": "Shanghai",
+    "CategoryMappingAllowed": "true",
+    "Country": "CN",
+    "ConditionID": "3000",
+    "Currency": "USD",
+    "DispatchTimeMax": "3",
+    "ListingDuration": "Days_7",
+    "ListingDetails": {
+        "MinimumBestOfferPrice": "6.0"
+    },
+    "ItemSpecifics": {
+        "NameValueList": [
+            {
+                "Name": "Band Material",
+                "Value": "Synthetic Leather"
+            },
+            {
+                "Name": "Brand",
+                "Value": "SOKI"
+            },
+            {
+                "Name": "Year of Manufacture",
+                "Value": "2010-Now"
+            },
+            {
+                "Name": "Water Resistance Rating",
+                "Value": "30 m (3 ATM)"
+            },
+            {
+                "Name": "Model",
+                "Value": "Fashion"
+            },
+            {
+                "Name": "Case Size",
+                "Value": "48mm"
+            },
+            {
+                "Name": "Face Color",
+                "Value": [
+                    "Black",
+                    "Brown",
+                    "White"
+                ]
+            },
+            {
+                "Name": "Display",
+                "Value": "Analog"
+            },
+            {
+                "Name": "Lug Width",
+                "Value": "12mm"
+            },
+            {
+                "Name": "Style",
+                "Value": "Sport"
+            },
+            {
+                "Name": "Case Finish",
+                "Value": "Polished"
+            },
+            {
+                "Name": "Case Material",
+                "Value": "Stainless Steel"
+            },
+            {
+                "Name": "Movement",
+                "Value": "Quartz (Battery)"
+            },
+            {
+                "Name": "Features",
+                "Value": [
+                    "12-hour Dial",
+                    "Date Indicator",
+                    "Day Indicator"
+                ]
+            },
+            {
+                "Name": "Water Resistance",
+                "Value": "30 Metres / 3 ATM"
+            },
+            {
+                "Name": "Case Color",
+                "Value": "Black"
+            },
+            {
+                "Name": "Age Group",
+                "Value": "Adult"
+            },
+            {
+                "Name": "Band Color",
+                "Value": [
+                    "Black",
+                    "Brown"
+                ]
+            },
+            {
+                "Name": "Gender",
+                "Value": "Men's"
+            },
+            {
+                "Name": "Watch Shape",
+                "Value": "Round"
+            },
+            {
+                "Name": "MPN",
+                "Value": "Does Not Apply"
+            }
+        ]
+    },
+    "ListingType": "Chinese",
+    "PaymentMethods": "PayPal",
+    "PayPalEmailAddress": "tkeefdddder@gmail.com",
+    "PictureDetails": {
+        "PhotoDisplay": "PicturePack",
+        "PictureURL": [
+            "https://i.ebayimg.com/00/s/NjQwWDY0MA==/z/u7cAAOSwTEZcS8yS/$_32.JPG?set_id=880000500F",
+            "https://i.ebayimg.com/00/s/ODE3WDgxNw==/z/VtcAAOSw2zRcS8yT/$_32.JPG?set_id=880000500F"
+        ]
+    },
+    "Quantity": "1",
+    "ReturnPolicy": {
+        "ReturnsAcceptedOption": "ReturnsNotAccepted",
+        "ReturnsAccepted": "No returns accepted",
+        "InternationalReturnsAcceptedOption": "ReturnsNotAccepted"
+    },
+    "SellerProfiles": {
+        "SellerPaymentProfile": {
+            "PaymentProfileName": "PayPal:Immediate pay"
+        },
+        "SellerReturnProfile": {
+            "ReturnProfileName": "30 Day Return Policy"
+        },
+        "SellerShippingProfile": {
+            "ShippingProfileName": "China Post Ordinary Small Packet Plus"
+        }
+    },
+    "ShippingDetails": {
+        
+        "SalesTax": {
+            "SalesTaxPercent": "0.0",
+            "ShippingIncludedInTax": "false"
+        },
+        "ShippingServiceOptions": {
+            "ShippingService": "US_StandardShippingFromGC",
+            "ShippingServiceCost": "0.0",
+            "ShippingServicePriority": "1",
+            "ExpeditedService": "false",
+            "ShippingTimeMin": "7",
+            "ShippingTimeMax": "19",
+            "FreeShipping": "true"
+        },
+        "ShippingType": "Flat",
+        "ShippingDiscountProfileID": "0",
+        "InternationalShippingDiscountProfileID": "0"
+    },
+    "ShipToLocations": "US",
+    "Site": "US"
+}
+}
